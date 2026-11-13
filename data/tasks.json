@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "title": "Veritabanı bağlantısı",
+    "description": "Backend tarafında veritabanı bağlantısı kurulacak",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-11-10T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Hata mesajlarının düzenlenmesi",
+    "description": "API hata mesajları gözden geçirilecek",
+    "status": "pending",
+    "priority": "low",
+    "assignee": "elif",
+    "createdAt": "2026-11-11T14:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "API testlerini yap",
+    "description": "",
+    "status": "pending",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-11-13T12:27:14.112Z"
+  }
+]
