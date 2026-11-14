@@ -104,4 +104,4 @@ Endpointler Postman ile test edildi. Ekran görüntüleri `screenshots` klasör�
 
 ## Dokümanlar
 
-Proje tanıtım dokümanı: [docs/proje-tanitim-dokumani.md](docs/proje-tanitim-dokumani.md)
+Proje tanıtım dokümanı: [docs/proje-tanitim-dokumani.pdf](docs/proje-tanitim-dokumani.pdf)
